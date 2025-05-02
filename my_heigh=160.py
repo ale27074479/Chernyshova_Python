@@ -1,5 +1,5 @@
-my_heigh = 160
-print(my_heigh)
+my_height = 160
+print(my_height)
 
 my_name = "Alex"
 my_name = "Alex Chernyshova"
